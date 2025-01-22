@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chetan
+ *
+ */
+module SampleJava {
+}
